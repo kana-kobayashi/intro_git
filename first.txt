@@ -2,3 +2,4 @@ Gitの練習用
 ワークフローを学習
 Gitのadd
 GitのCommitを学習
+削除・新規
