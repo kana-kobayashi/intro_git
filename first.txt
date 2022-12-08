@@ -3,3 +3,4 @@ Gitの練習用
 Gitのadd
 GitのCommitを学習
 削除・新規
+git status
